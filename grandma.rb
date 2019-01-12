@@ -2,12 +2,7 @@
 def speak_to_grandma(phase)
 if phrase=="I LOVE YOU GRANDMA!"
 elsif "I LOVE YOU TOO PUMPKIN"
-elsif Grandma=="HUH?!"
-  return "SPEAK UP,SONNY!"
-elsif Grandma=="HUH?! second time"
-  puts "speak up Sonny"
-else Grandma== "NO"
-  puts"NOT SINCE 1938!"
+
 end
 
 # Whatever you say to grandma, she should respond with
