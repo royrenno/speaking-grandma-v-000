@@ -6,8 +6,8 @@ def speak_to_grandma(phase)
     return "HUH?! SPEAK UP, SONNY!"
     return "NO,NOT SINCE 1938!"
   else phrase== phrase.downcase
-    return ""
-  end
+    return "HUH?! SPEAK UP, SONNY!"
+    end
 end
 
 
