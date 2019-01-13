@@ -5,7 +5,7 @@ def speak_to_grandma(phase)
   elsif phrase== phrase.upcase
     return "HUH?!SPEAK UP SONNY!"
   else phrase== phrase.downcase
-    return "HUH?! SPEAK UP, SONNY!"
+    return "NO, NOT SINCE 1938!"
     end
 end
 
